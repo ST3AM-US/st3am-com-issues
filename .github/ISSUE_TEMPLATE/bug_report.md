@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Affected Plugin**
+Please indicate the plugin name if no label is available
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
