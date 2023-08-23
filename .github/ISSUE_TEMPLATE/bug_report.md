@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Affected Plugin**
+**Affected Plugin / Project**
 Please indicate the plugin name if no label is available
 
 **Describe the bug**
